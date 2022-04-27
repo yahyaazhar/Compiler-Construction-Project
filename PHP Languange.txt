@@ -1,0 +1,20 @@
+/* PHP Work */
+
+
+*/
+<!DOCTYPE html>
+<html>
+<body>
+​
+<?php
+//practicing PHP
+# for project only
+$var = 'I dont have it';
+echo "Why I'm Doing This!<br>";
+/*echo "why its not case sense?<br>";*/
+echo "money is: ". $var;
+?> 
+​
+</body>
+</html>
+​
